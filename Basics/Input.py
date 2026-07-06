@@ -1,3 +1,4 @@
+#3 Add two number
 num = int(input("Enter a number"))
 num1 = int(input("Enter a number"))
 sum = num + num1
